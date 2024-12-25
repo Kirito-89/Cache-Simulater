@@ -108,5 +108,5 @@ When the simulator reaches the end of the file (i.e., after executing the last i
 
 ## Results
 ![alt text](results/result-1.png) 
-![alt text](results/result-1.png) 
-![alt text](results/result-1.png)
+![alt text](results/result-2.png) 
+![alt text](results/result-3.png)
